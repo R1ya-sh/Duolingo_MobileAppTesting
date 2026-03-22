@@ -26,8 +26,8 @@ This project demonstrates manual testing of the Duolingo mobile application usin
 - Status: Open
 
 ## Attachments
-![Bug Screenshot](Screenshots/login_bug.png)
-![UI Issue](Screenshots/ui_issue.png)
+![Bug Screenshot] (Listen&Respond_issue.png)
+![UI Issue] (Listen&Respond_UI_issue.png) | (UI_error.png)
 
 ## Author
 Riya Shrotriya
